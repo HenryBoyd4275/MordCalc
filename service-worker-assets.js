@@ -825,11 +825,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-103vzH+2GOQ3kH5gs\/+FZFdOP5jlQw6NhMPJ5SWssCo=",
+      "hash": "sha256-qRFyxOm5mo0ho07Vq6tK+jdDF3EHF+o9hodYLRQ3sEI=",
       "url": "_framework\/MordCalc.dll"
     },
     {
-      "hash": "sha256-cVr0frdgFIQ1eLwjoxrZF2l2ujF6jADH0MOBpt3Lfds=",
+      "hash": "sha256-aPOmC1XD5Z5hkYStPPHWsq64sVquhl+g3o25UOTDIXo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -837,5 +837,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "8HAwwzBR"
+  "version": "W8kR3gCP"
 };
