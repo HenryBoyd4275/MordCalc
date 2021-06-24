@@ -188,7 +188,7 @@
       "Microsoft.JSInterop.dll": "sha256-Giz1JvBiSQH0QF96qODveJMip7exQTDFunFNTkGgPsc=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-w0G2c9HerfjA2TOs+L4Ufnrt9MsR8b+nLA5\/yt+ytxg=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "MordCalc.dll": "sha256-UARYLbuVli3l3bxgwt8WcGa2nVFd5WJRBy9uoGMoTj0="
+      "MordCalc.dll": "sha256-PVe0MnRM8fXub\/d3RuujPX1I7hXjaHuWI+sbcMLfjbk="
     },
     "lazyAssembly": null,
     "pdb": null,
